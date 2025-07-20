@@ -1,7 +1,7 @@
 from langchain_ollama import OllamaLLM
 from langchain_core.prompts import ChatPromptTemplate
 
-# Define a prompt template for the chatbot
+# # Define a prompt template for the chatbot
 template = """
 Answer the question below based on our conversation history.
 
